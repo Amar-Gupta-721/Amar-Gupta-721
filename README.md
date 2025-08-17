@@ -3,9 +3,7 @@
 "I'm a passionate Full Stack Developer with a strong background in creating interactive and responsive web applications. I build user-friendly interfaces and develop complete solutions using modern web technologies for both frontend and backend."
 
 ## 🚀 About Me
-- 🔭 I’m currently learning **MongoDB**.
 - 👯 I’m looking to collaborate on exciting front-end and full-stack projects.
-- 🤔 I’m looking for help with mastering advanced backend technologies.
 - 💬 Ask me about MongoDB, Express.js, React.js, Node.js, or anything related to MERN stack development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amar-gupta-36a3b8176/) | [Email](mailto:amargupta721@gmail.com)
 - 😄 Pronouns: He/Him
